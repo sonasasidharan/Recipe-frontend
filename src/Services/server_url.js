@@ -1,3 +1,3 @@
-const base_url="http://localhost:3000"
+const base_url="https://recipe-backend-prp1.onrender.com"
 
 export default base_url
